@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./qrcode-capture.jpg)
+![](./qrcode-capture.png)
 
 ### Links
 
@@ -35,6 +35,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@josephmadras](https://www.frontendmentor.io/profile/josephmadras)
 - Twitter - [@joekabemba8](https://twitter.com/joekabemba8)
