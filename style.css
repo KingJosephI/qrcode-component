@@ -3,3 +3,23 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+main {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(220, 15%, 55%);
+}
+
+figure {
+  max-width: 250px;
+  background-color: hsl(0, 0%, 100%);
+  padding: 10px;
+  border-radius: 10px;
+}
+
+figure img {
+  width: 100%;
+}
+
