@@ -11,7 +11,7 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: hsl(220, 15%, 55%);
+  background-color:  hsl(212, 45%, 89%);
   font-family: 'Outfit', sans-serif;
 }
 
@@ -20,6 +20,7 @@ figure {
   background-color: hsl(0, 0%, 100%);
   padding: 20px;
   border-radius: 10px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 
 figure img {
@@ -39,5 +40,6 @@ figure p {
   font-size: 15px;
   padding-bottom: 20px;
   text-align: center;
+  color: hsl(220, 15%, 55%);
 }
 
