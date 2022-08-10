@@ -6,8 +6,8 @@
   box-sizing: border-box;
 }
 
-main {
-  min-height: 100vh;
+body {
+  min-height: 100vh;  
   display: flex;
   justify-content: center;
   align-items: center;
@@ -15,6 +15,9 @@ main {
   font-family: 'Outfit', sans-serif;
 }
 
+main {
+  margin: 24px;
+}
 figure {
   max-width: 300px;
   background-color: hsl(0, 0%, 100%);
@@ -41,5 +44,6 @@ figure p {
   padding-bottom: 20px;
   text-align: center;
   color: hsl(220, 15%, 55%);
+  line-height: 22px;
 }
 
